@@ -4,27 +4,46 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: '#about'
-    weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: About
+    url: '/about/'  # Ensure this URL points to the about section page.
     weight: 20
-  - name: Projects
-    url: '#projects'
+  # - identifier: 'education'
+  #   name: 'Education'
+  #   url: '/about/education/'  # Ensure this URL points to the specific page or anchor.
+  #   parent: 'About'
+  #   weight: 2
+  # - identifier: 'experience'
+  #   name: 'Experience'
+  #   url: '/about/experience/'  # Ensure this URL points to the specific page or anchor.
+  #   parent: 'About'
+  #   weight: 3
+
+  - name: Research
+    url: '/projects_overview'
     weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
-  - name: Publications
-    url: '#featured'
+
+  # - identifier: 'Holography'
+  #   name: 'Holography'
+  #   parent: 'Research'
+  #   url: '/project/holography'  # Make sure this anchor exists on the About page    parent: 'About'
+  #   weight: 1
+  # - identifier: 'Medical'
+  #   name: 'Medical Imaging'
+  #   url: '/project/medical_imaging'  # Make sure this anchor exists on the About page    parent: 'About'
+  #   parent: 'Research'
+  #   weight: 3
+
+  - name: Teaching
+    url: '/teaching/'
+    weight: 35
+  - name: Travel
+    url: '/travel'
     weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
-
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+  # - name: CV
+  #   url: uploads/resume.pdf
+  #   weight: 70
