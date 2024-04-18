@@ -1,6 +1,6 @@
 ---
 title: Enhancing Sparse-View CT Reconstruction - A Two-Step, Domain-Specific Approach
-summary: Here we describe how to add a page to your site.
+summary: Our study introduces a pioneering two-step, domain-specific approach to enhance sparse-view CT reconstruction, employing a Sinogram Inpainting Network and a Postprocessing Refining Network coupled with a Discriminator Perceptual loss, significantly improving reconstruction quality and efficiency.
 date: "2018-06-28T00:00:00Z"
 tag: ["Electronics", "Diodes"]
 

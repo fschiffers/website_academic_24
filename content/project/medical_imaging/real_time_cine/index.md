@@ -1,6 +1,6 @@
 ---
 title: Revolutionizing Real-Time Cine MRI with PCNN
-summary: An example of using the in-built project page.
+summary: Our research introduces the Perceptual Complex Neural Network (PCNN), a novel method for the swift and accurate reconstruction of non-Cartesian real-time cine MRI data, enhancing image quality for patients with arrhythmia and/or dyspnea.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"

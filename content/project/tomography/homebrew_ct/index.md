@@ -1,6 +1,6 @@
 ---
 title: Homebrew CT
-summary: Here we describe how to add a page to your site.
+summary: Our study introduces a novel, low-cost, and disassemblable cone-beam CT scanner, featuring online calibration with 3D-printed phantoms for high-quality imaging under challenging conditions, expanding CT applications to fields like biology and cultural heritage.
 date: "2018-06-28T00:00:00Z"
 tag: ["Electronics", "Diodes"]
 

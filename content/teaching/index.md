@@ -18,7 +18,9 @@ My passion for teaching blossomed during my PhD studies at <a href="https://www.
 
 Creating a supportive learning environment that encourages critical thinking, questioning, and exploration is at the heart of my teaching philosophy. I am deeply committed to making learning an engaging and enriching experience for my students, and I find great fulfillment in contributing to their development as scholars and individuals.
 
-As I continue my academic career, I look forward to further opportunities to share my knowledge and passion with students, fostering their love for learning and helping them achieve their full potential.
+Beyond the classroom, I find immense joy in tutoring and mentoring students one-on-one. Whether it's helping a struggling student overcome a challenging concept or guiding a highly motivated learner to explore advanced topics, I cherish the opportunity to make a positive impact on their academic journey.
+
+As I continue my career, despite not staying in an academic setting, I look forward to further opportunities to share my knowledge and passion with students, fostering their love for learning Computer Vision and helping them achieve their full potential.
 
 # Full Instructor
 

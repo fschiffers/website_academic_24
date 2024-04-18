@@ -1,6 +1,6 @@
 ---
 title: Automatic Differetiation Ptychography
-summary: Here we describe how to add a page to your site.
+summary: Our paper discusses enhancing the acquisition speed and efficiency of X-ray ptychography, crucial for nanometer resolution imaging, by integrating image priors in the phase retrieval process, significantly improving the technique's applicability in fields like biological imaging and material sciences.
 date: "2018-06-28T00:00:00Z"
 tags: ["A Tag", "Another Tag"]
 # View.

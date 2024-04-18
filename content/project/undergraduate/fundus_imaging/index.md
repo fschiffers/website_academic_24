@@ -1,8 +1,8 @@
 ---
 title: Synthethic Angiographic Fundus Imaging
-summary: Here we describe how to add a page to your site.
+summary: This study explores the use of deep learning, specifically CycleGAN, to synthesize angiographic fundus images from conventional color fundus images, aiming to provide a safer alternative to traditional angiographic imaging which carries potential risks.
 date: "2018-06-28T00:00:00Z"
-tag: ["Electronics", "Diodes"]
+tag: ["Generative AI", "Deep Learning"]
 
 # View.
 #   1 = List

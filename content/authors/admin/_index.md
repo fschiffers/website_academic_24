@@ -72,3 +72,4 @@ Before delving into my Ph.D., I earned my [Masters in Physics](https://www.physi
 Recently, I had the opportunity to intern at [Reality Labs](https://en.wikipedia.org/wiki/Reality_Labs), [Meta](https://en.wikipedia.org/wiki/Meta_Platforms), where I collaborated with [Doug Lanman](https://scholar.google.com/citations?user=-qncsGYAAAAJ&hl=en) and [Nathan Matsuda](https://www.nathanmatsuda.com/) to contribute to the evolution of [holographic near-eye displays](https://light.princeton.edu/publication/stochastic_light_field_holography/). Additionally, I have had the enriching experience of being a [full instructor](teaching) for several courses at Northwestern, reinforcing my passion for disseminating knowledge in this multifaceted field.
 #
 {style="text-align: justify;"}
+

@@ -1,6 +1,6 @@
 ---
 title: Grating-Based Phase-Contrast X-Ray Tomography
-summary: An example of using the in-built project page.
+summary: This thesis proposes an iterative reconstruction approach to reduce artifacts, such as beam hardening and dispersion effects, in Talbot-Lau X-ray grating interferometry computed tomography by incorporating a polychromatic forward projection model that includes prior knowledge about the physical setup.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"

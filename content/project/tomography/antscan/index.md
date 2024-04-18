@@ -1,6 +1,6 @@
 ---
 title: AntScan
-summary: Here we describe how to add a page to your site.
+summary: Our research employs a custom-built CT scanner to explore the self-assembling structures of army ant bivouacs, providing unprecedented insights into their intricate internal organization and growth, which holds potential for inspiring artificial self-assembling systems.
 date: "2018-06-28T00:00:00Z"
 tag: ["Electronics", "Diodes"]
 

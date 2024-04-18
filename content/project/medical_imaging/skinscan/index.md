@@ -1,6 +1,6 @@
 ---
 title: Skin Scan
-summary: Here we describe how to add a page to your site.
+summary: Our work introduces a novel, low-cost, and mobile 3D imaging method utilizing gradient illumination, specifically designed for effective dermatological evaluation, potentially revolutionizing early diagnosis and monitoring of skin diseases using everyday devices.
 date: "2018-06-28T00:00:00Z"
 tag: ["Electronics", "Diodes"]
 
