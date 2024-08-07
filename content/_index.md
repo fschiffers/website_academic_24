@@ -11,12 +11,119 @@ sections:
       title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: contact
-    id: selected_publications
+  # - block: contact
+  #   id: selected_publications
+  #   content:
+  #     title: Selected Publications
+  #     subtitle: Some publications
+  #     username: selected_publica
+  - block: markdown
     content:
       title: Selected Publications
-      subtitle: Some publications
-      username: selected_publications
+      #subtitle: My subtitle
+      text:
+        <table>
+          <tr>
+            <td>
+              <img src="images/thumbnails/multisource.png" alt="Galactic Spectrum Analysis" width="400">
+            </td>
+            <td>
+              <span style="font-size:2em;">Galactic Spectrum Analysis</span>
+              <br>
+              <b>Alice Smith</b>, John Doe, Jane Roe, Alan Smithee, and Charlie Brown
+              <i>Interstellar Journal of Advanced Research 2024</i>
+              <br>
+              <a href="https://arxiv.org/abs/2309.10816">arXiv</a> | <a href="https://website-name.com">Supplement</a>
+              <br>
+              <br>
+              We present a novel method for analyzing galactic spectra using a combination of dark matter wave modulation and quantum entanglement. This method provides unprecedented resolution in the observation of distant galaxies.
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="images/thumbnails/multisource.png" alt="Quantum Flux Capacitors" width="400">
+            </td>
+            <td>
+              <span style="font-size:2em;">Quantum Flux Capacitors</span>
+              <br>
+              <b>Mary Johnson</b>, Peter Parker, Bruce Wayne, Clark Kent, and Diana Prince
+              <i>Journal of Quantum Mechanisms 2024</i>
+              <br>
+              <a href="https://arxiv.org/abs/2309.10816">arXiv</a> | <a href="https://website-name.com">Supplement</a>
+              <br>
+              <br>
+              This paper introduces the concept of Quantum Flux Capacitors and their applications in time-space continuum studies. The research highlights the efficiency of quantum flux in stabilizing wormholes for potential interstellar travel.
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="images/thumbnails/multisource.png" alt="Neutrino Particle Simulation" width="400">
+            </td>
+            <td>
+              <span style="font-size:2em;">Neutrino Particle Simulation</span>
+              <br>
+              <b>Emma Williams</b>, Jack Johnson, Olivia Brown, Harry Green, and Lucy White
+              <i>Cosmic Innovations Journal 2024</i>
+              <br>
+              <a href="https://arxiv.org/abs/2309.10816">arXiv</a> | <a href="https://website-name.com">Supplement</a>
+              <br>
+              <br>
+              We develop a comprehensive simulation framework for studying neutrino particles within high-energy cosmic environments. Our simulation results provide key insights into the behavior of neutrinos in various astrophysical scenarios.
+            </td>
+          </tr>
+        </table>
+        # <table>
+        #   <tr>
+        #     <td>
+        #       <img src="images/thumbnails/multisource.png" alt="Description" width="400">
+        #     </td>
+        #     <td>
+        #       <span style="font-size:2em;">Multisource Holography</span>
+        #       <br>
+        #       <b>Grace Kuo</b>, Florian Schiffers, Douglas Lanman, Oliver Cossairt and Nathan Matsuda
+        #       <i>ACM Siggraph Asia 2023</i>
+        #       <br>
+        #       <a href="https://arxiv.org/abs/2309.10816">arXiv</a> | <a href="https://website-name.com">Supplement</a>
+        #       <br>
+        #       <br>
+        #       We propose an architecture for speckle reduction in holographic displays that uses an array of mutually incoherent sources and two sequential spatial light modulators. Multisource holography can suppress speckle in a single frame without sacrificing resolution.
+        #     </td>
+        #   </tr>
+        #   <tr>
+        #     <td>
+        #       <img src="images/thumbnails/multisource.png" alt="Description" width="400">
+        #     </td>
+        #     <td>
+        #       <span style="font-size:2em;">Multisource Holography</span>
+        #       <br>
+        #       <b>Grace Kuo</b>, Florian Schiffers, Douglas Lanman, Oliver Cossairt and Nathan Matsuda
+        #       <i>ACM Siggraph Asia 2023</i>
+        #       <br>
+        #       <a href="https://arxiv.org/abs/2309.10816">arXiv</a> | <a href="https://website-name.com">Supplement</a>
+        #       <br>
+        #       <br>
+        #       We propose an architecture for speckle reduction in holographic displays that uses an array of mutually incoherent sources and two sequential spatial light modulators. Multisource holography can suppress speckle in a single frame without sacrificing resolution.
+        #     </td>
+        #   </tr>
+        # </table>
+        # <table>
+        #   <tr>
+        #     <td>
+        #       <img src="images/thumbnails/multisource.png" alt="Description" width="400">
+        #     </td>
+        #     <td>
+        #       <span style="font-size:2em;">Multisource Holography</span>
+        #       <br>
+        #       <b>Grace Kuo</b>, Florian Schiffers, Douglas Lanman, Oliver Cossairt and Nathan Matsuda
+        #       <i>ACM Siggraph Asia 2023</i>
+        #       <br>
+        #       <a href="https://arxiv.org/abs/2309.10816">arXiv</a> | <a href="https://website-name.com">Supplement</a>
+        #       <br>
+        #       <br>
+        #       We propose an architecture for speckle reduction in holographic displays that uses an array of mutually incoherent sources and two sequential spatial light modulators. Multisource holography can suppress speckle in a single frame without sacrificing resolution.
+        #     </td>
+        #   </tr>
+        # </table>
   - block: contact
     id: contact
     content:
@@ -25,7 +132,7 @@ sections:
       text: 
       #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: florianschiffers+mail@gmail.com
+      email: florianschiffers+fromwebsite@gmail.com
       # phone: +1 872 235 6608
       appointment_url: 'https://florianschiffers.youcanbook.me'
       # address:

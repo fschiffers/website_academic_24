@@ -26,9 +26,10 @@ bio: My research interests revolve around Computational Photography, Medical Ima
 
 # Interests to show in About widget
 interests:
-  - Computational Photography
-  - Medical Imaging
-  - Computational Displays
+  - Computational Photography/Imaging/Display
+  - Generative AI and Machine Learning
+  - Computer Vision
+
 
 # Education to show in About widget
 education:
@@ -59,17 +60,18 @@ social:
     link: https://www.linkedin.com/in/florianschiffers/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv_schiffers_florian.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I’m a Ph.D. candidate in [Computer Science]() at [Northwestern University](https://en.wikipedia.org/wiki/Northwestern_University), mentored by [Prof. Cossairt](https://compphotolab.northwestern.edu/) and specializing in computational display. My primary endeavor is in pioneering Computer Generated Holography for next-generation near-eye displays, and I also hold a keen interest in exploring Computational Imaging, Computer Vision, Inverse Problems, and Medical Imaging.
+I’m a Ph.D. candidate in [Computer Science]() at [Northwestern University](https://en.wikipedia.org/wiki/Northwestern_University), mentored by my main advisor [Prof. Oliver Cossairt](https://compphotolab.northwestern.edu/) and co-advisor [Prof. Aggelos Katsaggelos](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html), specializing in computational display and medical imaging. My primary endeavor is in pioneering Computer Generated Holography for next-generation near-eye displays, and I also hold a keen interest in exploring Computational Imaging, Computer Vision, Inverse Problems, and Medical Imaging.
 
 Before delving into my Ph.D., I earned my [Masters in Physics](https://www.physics.nat.fau.eu/studies/bsc-and-msc-in-physics/) in [Erlangen](https://www.fau.de/) and accumulated valuable industry experience at [Siemens Healthineers](https://en.wikipedia.org/wiki/Siemens_Healthineers). These experiences have played a pivotal role in shaping my academic and research trajectory.
 
 Recently, I had the opportunity to intern at [Reality Labs](https://en.wikipedia.org/wiki/Reality_Labs), [Meta](https://en.wikipedia.org/wiki/Meta_Platforms), where I collaborated with [Doug Lanman](https://scholar.google.com/citations?user=-qncsGYAAAAJ&hl=en) and [Nathan Matsuda](https://www.nathanmatsuda.com/) to contribute to the evolution of [holographic near-eye displays](https://light.princeton.edu/publication/stochastic_light_field_holography/). Additionally, I have had the enriching experience of being a [full instructor](teaching) for several courses at Northwestern, reinforcing my passion for disseminating knowledge in this multifaceted field.
+
 #
 {style="text-align: justify;"}
 

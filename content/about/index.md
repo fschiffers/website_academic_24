@@ -48,7 +48,7 @@ sections:
           company: Reality Labs; Meta
           company_logo: meta
           company_url: 'https://about.meta.com/realitylabs/'
-          location: NYC, USA
+          location: Remote
           date_start: '2022-09-01'
           date_end: '2023-03-01'
           description: '' # You can add a description here if needed
@@ -56,7 +56,7 @@ sections:
           company: Reality Labs; Meta
           company_logo: meta
           company_url: 'https://about.meta.com/realitylabs/'
-          location: NYC, USA
+          location: Remote
           date_start: '2021-09-01'
           date_end: '2022-03-01'
           description: '' # You can add a description here if needed
@@ -68,12 +68,9 @@ sections:
           date_start: '2016-03-01'
           date_end: '2018-03-31'
           description: |2-
-              Responsibilities include:
+              I developed calibration algorithms for medical robotics aimed at enhancing computer-assisted spine surgery. I implemented a novel measurement pipeline in MATLAB, which accurately tracked the relative movement of multiple medical robots concerning a phantom patient's spine. This work significantly improved the precision and reliability of robotic-assisted surgical procedures.
+              Collaborated with Philip Mewes and Thomas Pheiffer on deformable registration problems in minimally invasive surgery. Implemented and evaluated algorithms for medical image processing, registration, and segmentation.
 
-              * Analysing
-              * Modelling
-              * Deploying
-              
         - title: Research Assistant
           company: FAU Erlangen-Nuremberg
           company_logo: fau_logo
@@ -81,7 +78,8 @@ sections:
           location: Erlangen, Germany
           date_start: '2012-07-01'
           date_end: '2015-10-31'
-          description: '' # You can add a description here if needed
+          description:  # You can add a description here if needed
+              Collaborated with Prof. Gerd Haeusler and Prof. Florian Willomitzer on optical 3D sensing using structured light illumination. Developed precise calibration algorithms for multi-line triangulation (C++, Matlab, Python). Created an interactive 3D viewer (C++, OpenCV) for scanner data visualization. Developed a fast segmentation algorithm for 3D point cloud data (C++).
 
     design:
       columns: '2'
@@ -105,7 +103,7 @@ sections:
           date_start: '2017-07-01'
           date_end: '2017-12-15'
           description: |2-
-              Major: Medical and Computational Physics
+              I worked on optical and medical image processing, applying machine learning and deep learning technologies to enhance the diagnostic quality of retinal fundus imaging. Specifically, I utilized a variant of CycleGAN algorithms to synthesize fundus fluorescein angiography images from conventional fundus images.
           company_url: 'http://english.pku.edu.cn/'
 
         - title: M.Sc. in Physics
@@ -115,7 +113,9 @@ sections:
           date_start: '2016-03-01'
           date_end: '2018-03-30'
           description: |2-
-              Major: Medical and Computational Physics
+              During my dual degree at FAU Erlangen, I focused on Medical Imaging, Classical Machine Learning, Computational Physics, and Image Processing.
+
+              Master Thesis: Developed novel Image Reconstruction algorithms using Gradient Descent-based methods (Python and Java) for Beam-Hardening correction in Dark-Field Grating-Based Tomography. I built the framework from scratch in Java and tested the algorithms experimentally on our bench-top prototype.
           company_url: 'https://www.fau.eu/'
             
         - title: Study stay abroad with Erasmus
@@ -125,7 +125,7 @@ sections:
           date_start: '2015-09-01'
           date_end: '2016-02-29'
           description: |2-
-              Courses: Image Processing, Computer Graphics, Language Learning (French, Spanish)
+              During my academic exchange at the University of Bordeaux, I took classes in Computer Graphics, AR/VR, and Image Processing. Additionally, I completed intensive French courses, achieving fluency in the language.
           company_url: 'https://www.u-bordeaux.com/'
 
         - title: M.Sc.hons. in Advanced Optical Technologies
@@ -135,7 +135,7 @@ sections:
           date_start: '2014-10-01'
           date_end: '2017-07-31'
           description: |2-
-              Courses: Image Processing, Machine Learning, Computational Optics
+              Keystone Project: Implemented a Tensor-Holographic Framework (Java) for 3D reconstruction of Grating Based X-Ray Tomography. This novel dark-field signal allows for the reconstruction of orientation structures in every pixel.
           company_url: 'https://www.maot.studium.fau.de/'
 
         - title: Study stay abroad with Erasmus
@@ -145,7 +145,7 @@ sections:
           date_start: '2014-02-01'
           date_end: '2014-08-31'
           description: |2-
-              Activities: Laboratory work in Photonics and Optics, Language Learning (Spanish, Chinese)
+              During my cultural exchange semester at Universidad de Cantabria, I engaged in coursework in Photonics and participated in the Experimental Lab series in Physics. Additionally, I completed intensive Spanish courses, achieving fluency in the language.
           company_url: 'https://web.unican.es/en/Pages/default.aspx'
         - title: B.Sc. in Physics
           company: FAU Erlangen-Nuremberg          
@@ -154,7 +154,7 @@ sections:
           date_start: '2011-10-01'
           date_end: '2015-01-31'
           description: |2-
-              Courses: Numerical Analysis and Simulation, Computer Science, Optical Metrology
+              During my Bachelor's studies in Germany, I specialized in Computational Physics and Optical Metrology. Alongside my core focus, I completed three years of the Mathematics Bachelor's curriculum, demonstrating a keen interest in systematic programming and algorithm development through various computer science courses. My Bachelor's thesis involved developing an innovative calibration method for multi-line light-sectioning in the "Flying Triangulation" optical 3D sensor, enhancing sensor accuracy and accessibility with a simple calibration target.
           company_url: 'https://www.fau.eu/'
 
     design:

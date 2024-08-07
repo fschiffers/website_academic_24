@@ -21,7 +21,6 @@ main:
   - name: Research
     url: '/projects_overview'
     weight: 30
-
   # - identifier: 'Holography'
   #   name: 'Holography'
   #   parent: 'Research'

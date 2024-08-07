@@ -1,16 +1,68 @@
-![screen reader text](test.png)
+---
+title: 
+date: 2019-07-12
+math: true
+image:
+  placement: 2
+  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+---
 
-# [Computer Generated Holography](../project/holography)
-With Computer Generated Holography, we delve into creating high-resolution, realistic holographic images and displays. These projects focus on developing advanced algorithms and techniques to enhance the quality and realism of holographic displays, pushing the boundaries of visual representation and interaction.
+<table border="0" cellspacing="0">
+  <tr>
+    <td>
+      <a href="../project/holography">
+        <img src="displays.jpeg" width="400">
+      </a>
+    </td>
+    <td>
+      <a href="../project/holography/" style="text-decoration: none; color: inherit;">
+        <span style="font-size:2em;">Computational Photography and Displays</span>
+          <br>
+      We present a novel method for analyzing galactic spectra using a combination of dark matter wave modulation and quantum entanglement. This method provides unprecedented resolution in the observation of distant galaxies.
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="../project/holography">
+        <img src="medical_imaging.png" width="400">
+      </a>
+    </td>
+    <td>
+        <a href="../project/holography/" style="text-decoration: none; color: inherit;">
+      <span style="font-size:2em;">Medical Imaging</span>
+      <br>
+      This paper introduces the concept of Quantum Flux Capacitors and their applications in time-space continuum studies. The research highlights the efficiency of quantum flux in stabilizing wormholes for potential interstellar travel.
+            </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="../project/holography">
+        <img src="machine_learning.png" width="400">
+      </a>
+    </td>
+    <td>
+      <a href="../project/holography/" style="text-decoration: none; color: inherit;">
+      <span style="font-size:2em;">Computer Vision and Machine Learning</span>
+      <br>
+      We develop a comprehensive simulation framework for studying neutrino particles within high-energy cosmic environments. Our simulation results provide key insights into the behavior of neutrinos in various astrophysical scenarios.
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="../project/holography">
+        <img src="other_projects.png" width="400">
+      </a>
+    </td>
+    <td>
+      <a href="../project/holography/" style="text-decoration: none; color: inherit;">
+      <span style="font-size:2em;">Other Projects</span>
+      <br>
+      We develop a comprehensive simulation framework for studying neutrino particles within high-energy cosmic environments. Our simulation results provide key insights into the behavior of neutrinos in various astrophysical scenarios.
+      </a>
+    </td>
+  </tr>
+</table>
 
-# [Medical Imaging](../project/medical_imaging)
-Here we work on innovative solutions and methodologies to improve diagnostic accuracy and visualization of internal body structures. These projects aim to leverage cutting-edge computational methods to advance medical diagnostics, image reconstruction and explainable AI.
-
-# [Tomography](../project/tomography)
-Explore our work in Computed Tomography, focusing on developing advanced reconstruction techniques and methodologies for analyzing cross-sectional views of objects. Our projects in this category aim to enhance the quality and precision of tomographic images, enabling detailed insights into the internal structures and properties of studied objects, e.g. with biological applications.
-
-# [Other Projects](../project/otherprojects)
-Discover a variety of innovative endeavors in that didn't fit into categories above. All our projects are related to Computational Imaging, Photography and Machine Learning.
-
-# [Undergraduate Research](../project/undergraduate)
-Here I showcase research that I've performed during my bachelor and master studies in Germany. These projects reflect my early passion and dedication to scientific inquiry and innovation, spanning various disciplines and research areas.
