@@ -1,10 +1,7 @@
 ---
 title: 
-date: 2019-07-12
+date: 2024-08
 math: true
-image:
-  placement: 2
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
 <table border="0" cellspacing="0">
@@ -62,6 +59,20 @@ image:
       <br>
       We develop a comprehensive simulation framework for studying neutrino particles within high-energy cosmic environments. Our simulation results provide key insights into the behavior of neutrinos in various astrophysical scenarios.
       </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="../project/holography">
+        <img src="medical_imaging.png" width="400">
+      </a>
+    </td>
+    <td>
+        <a href="../project/holography/" style="text-decoration: none; color: inherit;">
+      <span style="font-size:2em;">Medical Imaging</span>
+      <br>
+      This paper introduces the concept of Quantum Flux Capacitors and their applications in time-space continuum studies. The research highlights the efficiency of quantum flux in stabilizing wormholes for potential interstellar travel.
+            </a>
     </td>
   </tr>
 </table>

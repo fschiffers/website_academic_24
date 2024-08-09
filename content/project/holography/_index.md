@@ -1,16 +1,23 @@
 ---
-title: Our research on Holographic Displays
-summary: Here we describe how to add a page to your site.
-date: "2018-06-28T00:00:00Z"
+title: Computational Photography and Displays
+cms_exclude: true
 
 # View.
 #   1 = List
 #   2 = Compact
 #   3 = Card
+#   4 = Citation
 view: 2
 
-# Optional header image (relative to `static/img/` folder).
-# header:
-#   caption: ""
-#   # image: ""
+# Optional header image (relative to `static/media/` folder).
+banner:
+  caption: ''
+  image: ''
+
+design:
+  columns: '1'
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ['0px', '200px', '0px', '200px']
 ---
+

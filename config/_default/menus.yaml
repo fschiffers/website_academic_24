@@ -21,17 +21,6 @@ main:
   - name: Research
     url: '/projects_overview'
     weight: 30
-  # - identifier: 'Holography'
-  #   name: 'Holography'
-  #   parent: 'Research'
-  #   url: '/project/holography'  # Make sure this anchor exists on the About page    parent: 'About'
-  #   weight: 1
-  # - identifier: 'Medical'
-  #   name: 'Medical Imaging'
-  #   url: '/project/medical_imaging'  # Make sure this anchor exists on the About page    parent: 'About'
-  #   parent: 'Research'
-  #   weight: 3
-
   - name: Teaching
     url: '/teaching/'
     weight: 35
