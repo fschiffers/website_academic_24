@@ -17,6 +17,7 @@ image:
 <div style="text-align: left;">
     Eric Markley, Nathan Matsuda, Florian Schiffers, Oliver Cossairt, Grace Kuo
 </div>
+<em>SIGGRAPH ASIA 2023</em>
 
 <figure>
   <img src="teaser_01.png" alt="my alt text" style="width:100%"/>
@@ -34,6 +35,95 @@ We propose a novel framework for simultaneous color holography that enables the 
 Our method addresses the challenges associated with simultaneous color holography, such as depth-color ambiguity and the presence of depth replicas. We take advantage of the extended phase range of the SLM to mitigate these issues and improve hologram quality. Additionally, our perceptual loss function prioritizes low-frequency color information, aligning with the human visual system's sensitivity to color, resulting in improved color fidelity and reduced noise in the generated holograms.
 
 Through experimental validation, we demonstrate the effectiveness of our simultaneous color holography framework on both 2D and 3D content. Our compact and simple optical setup, combined with the elimination of sequential color illumination, brings us one step closer to realizing practical color holographic displays for augmented and virtual reality applications.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paper Display</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .paper-container table {
+            width: 100%;
+            border-spacing: 20px;
+        }
+        .paper-image img {
+            width: 250px;
+            height: auto;
+        }
+        .paper-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .paper-authors {
+            font-size: 16px;
+            margin-bottom: 10px;
+            color: #555;
+        }
+        .paper-conference {
+            font-size: 16px;
+            margin-bottom: 20px;
+        }
+        .paper-links {
+            display: flex;
+            gap: 10px;
+        }
+        .paper-links a {
+            display: inline-block;
+            padding: 5px 15px;
+            text-decoration: none;
+            color: #555;
+            background-color: #f7f7f7;
+            border: 1px solid #ddd;
+            font-size: 14px;
+            border-radius: 2px;
+        }
+        .paper-links a:hover {
+            background-color: #eaeaea;
+        }
+        .text {
+            vertical-align: top;
+        }
+    </style>
+</head>
+<body>
+
+<div class="paper-container">
+    <table>
+        <tr>
+            <td class="paper-image">
+              <a href="paper.pdf">
+                <img src="paper_thumbnail.png" alt="Paper Thumbnail" width="200px">
+            </td>
+            <td class="text">
+                <div class="paper-title">Simultaneous Color Computer Generated Holography</div>
+                <div class="paper-authors">
+                    Eric Markley, Nathan Matsuda, Florian Schiffers, Oliver Cossairt, Grace  
+                </div>
+                <div class="paper-conference">
+                    SIGGRAPH ASIA 2023
+                </div>
+                <div class="paper-links">
+                    <a href="paper.pdf">Paper</a>
+                    <a href="https://dl.acm.org/doi/suppl/10.1145/3610548.3618250/suppl_file/SimultaneousColorSupplement_Asia_Final.pdf">Supplement</a>
+                    <!-- <a href="#">Bibtex</a>
+                    <a href="#">Code (soon)</a> -->
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+</body>
+</html>
+
+
+
 
 <figure>
   <img src="comparison.png" alt="my alt text" style="width:100%"/>

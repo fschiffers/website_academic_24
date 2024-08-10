@@ -3,7 +3,6 @@ title: Multisource Holography for Speckle Reduction in Holographic Displays
 summary: We propose an architecture for speckle reduction in holographic displays that uses an array of mutually incoherent sources and two sequential spatial light modulators. Multisource holography can suppress speckle in a single frame without sacrificing resolution.
 
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 tags:
   - Holography
@@ -56,6 +55,91 @@ design:
 </figure>
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paper Display</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .paper-container table {
+            width: 100%;
+            border-spacing: 20px;
+        }
+        .paper-image img {
+            width: 250px;
+            height: auto;
+        }
+        .paper-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .paper-authors {
+            font-size: 16px;
+            margin-bottom: 10px;
+            color: #555;
+        }
+        .paper-conference {
+            font-size: 16px;
+            margin-bottom: 20px;
+        }
+        .paper-links {
+            display: flex;
+            gap: 10px;
+        }
+        .paper-links a {
+            display: inline-block;
+            padding: 5px 15px;
+            text-decoration: none;
+            color: #555;
+            background-color: #f7f7f7;
+            border: 1px solid #ddd;
+            font-size: 14px;
+            border-radius: 2px;
+        }
+        .paper-links a:hover {
+            background-color: #eaeaea;
+        }
+        .text {
+            vertical-align: top;
+        }
+    </style>
+</head>
+<body>
+
+<div class="paper-container">
+    <table>
+        <tr>
+            <td class="paper-image">
+              <a href="paper.pdf">
+                <img src="paper_thumbnail.png" alt="Paper Thumbnail" width="200px">
+            </td>
+            <td class="text">
+                <div class="paper-title">Multisource Holography</div>
+                <div class="paper-authors">
+                    Grace Kuo, Florian Schiffers, Douglas Lanman, Oliver Cossairt, Nathan Matsuda
+                </div>
+                <div class="paper-conference">
+                    ICCP 2023
+                </div>
+                <div class="paper-links">
+                    <a href="paper.pdf">Paper</a>
+                    <a href="supplement.pdf">Supplement</a>
+                    <!-- <a href="#">Bibtex</a>
+                    <a href="#">Code (soon)</a> -->
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+</body>
+</html>
+<br>
 
 In one my most favorite research projects that I have worked on, we propose a novel architecture for holographic displays called multisource holography, designed specifically to reduce speckle noise while maintaining high resolution and natural defocus cues. Traditional holographic displays rely on coherent illumination, which can create undesirable speckle patterns in the final image. Existing speckle reduction techniques often sacrifice resolution or require high-speed modulators and temporal multiplexing.
 
