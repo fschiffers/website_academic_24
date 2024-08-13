@@ -1,5 +1,5 @@
 ---
-title: Computational Photography and Displays
+title: Computer Vision and Machine Learning
 cms_exclude: true
 
 # View.

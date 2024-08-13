@@ -21,7 +21,7 @@ math: true
   </tr>
   <tr>
     <td>
-      <a href="../project/holography">
+      <a href="../project/medical_imaging">
         <img src="medical_imaging.png" width="400">
       </a>
     </td>

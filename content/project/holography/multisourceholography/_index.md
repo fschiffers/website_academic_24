@@ -45,6 +45,13 @@ design:
     padding: ['20px', '200px', '20px', '200px']
 ---
 
+<div style="text-align: left;">
+   Grace Kuo, Florian Schiffers, Douglas Lanman, Oliver Cossairt, Nathan Matsuda
+</div>
+
+<em>Siggraph Asia 2023</em>
+
+
 <figure>
   <img src="teaser.png" alt="my alt text" style="width:100%"/>
   <figcaption>
