@@ -43,6 +43,8 @@ design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ['20px', '200px', '20px', '200px']
+
+weight: 1  # Lower numbers appear first; increase to order items as desired.
 ---
 
 <div style="text-align: left;">
@@ -51,6 +53,7 @@ design:
 
 <em>Siggraph Asia 2023</em>
 
+<iframe width="950" height="615" src="https://www.youtube.com/embed/aPezu0YAoy4" frameborder="0" allowfullscreen></iframe>
 
 <figure>
   <img src="teaser.png" alt="my alt text" style="width:100%"/>

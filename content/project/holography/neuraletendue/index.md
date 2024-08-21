@@ -11,4 +11,6 @@ external_link: https://light.princeton.edu/publication/neural-etendue-expander/
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
+
+weight: 1  # Lower numbers appear first; increase to order items as desired.
 ---
