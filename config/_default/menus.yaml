@@ -21,6 +21,43 @@ main:
   - name: Research
     url: '/projects_overview'
     weight: 30
+  
+  - name: Overview
+    url: '/projects_overview'
+    parent: 'Research'
+    weight: 1
+  - name: ________________
+    url: '/projects_overview'
+    parent: 'Research'
+    weight: 5
+  - name: Comp Photo
+    url: '/project/holography'
+    parent: 'Research'
+    weight: 30
+  - name: Medical Imaging
+    url: '/project/medical_imaging'
+    parent: 'Research'
+    weight: 30
+  - name: Computer Vision
+    url: '/project/computervision'
+    parent: 'Research'
+    weight: 30
+  - name: Other Projects
+    url: '/project/'
+    parent: 'Research'
+    weight: 30
+
+  # - identifier: 'education'
+  #   name: 'Education'
+  #   url: '/about/education/'  # Ensure this URL points to the specific page or anchor.
+  #   parent: 'About'
+  #   weight: 2
+  # - identifier: 'experience'
+  #   name: 'Experience'
+  #   url: '/about/experience/'  # Ensure this URL points to the specific page or anchor.
+  #   parent: 'About'
+  #   weight: 3
+
   - name: Teaching
     url: '/teaching/'
     weight: 35

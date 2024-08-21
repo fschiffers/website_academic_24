@@ -162,30 +162,36 @@ For more details and to access the code, see [the paper](https://arxiv.org/pdf/2
 
 
 
-<figure>
-  <img src="network_overview.png" alt="my alt text" style="width:100%"/>
-  <figcaption>
-    <span class="caption-text">
-      <strong>Figure 1:</strong>
-    </span>
-  </figcaption>
-</figure>
 
 
 <figure>
   <img src="problem_statement.png" alt="my alt text" style="width:80%"/>
   <figcaption>
     <span class="caption-text">
-      <strong>Figure 1:</strong>
+      <strong>Figure 2:</strong>
+      Different problems arising in tomographic imaging and their relations to our 1D-super-resolution task, such as metal artifact removal (MAR) and limited angle tomography (LAT). SparseView-CT is at the intersection of inpainting and super-resolution when viewed in measurement domain.
     </span>
   </figcaption>
 </figure>
+
+
+<figure>
+  <img src="network_overview.png" alt="my alt text" style="width:100%"/>
+  <figcaption>
+    <span class="caption-text">
+      <strong>Figure 3:</strong>Network Architecture of our proposed SIN-4c-PRN model. <strong>Top</strong> In step one, we linearly upsample a sparse-view sinogram and preprocess with our Two-Ends (TE) flipping method as input to the SIN model. In step two, the super-resolved sinogram is 1D-downsampled by different factors. FBP-reconstructions from the set of sinograms are concatenated as a cascaded input to the PRN. The patch discriminators SIN-D and PRN-D calculate pixel-wise adversarial losses of global or local generated images.
+      Additionally, each discriminator calculates a discriminator perceptual loss that enhances the generator's perceptual knowledge. <strong>Bottom</strong> Detailed architecture of our SIN and PRN models
+    </span>
+  </figcaption>
+</figure>
+
 
 <figure>
   <img src="discriminator_perceptual_loss.png" alt="my alt text" style="width:50%"/>
   <figcaption>
     <span class="caption-text">
-      <strong>Figure 1:</strong>
+      <strong>Figure 4:</strong>
+      Discriminator Perceptual Loss. The image pair generated from the input, and the target image are compared at each activation layer output in the discriminator. Pixel-wise losses are calculated for updating the generator.
     </span>
   </figcaption>
 </figure>
@@ -198,7 +204,8 @@ For more details and to access the code, see [the paper](https://arxiv.org/pdf/2
   <img src="result_fig_7.png" alt="my alt text" style="width:50%"/>
   <figcaption>
     <span class="caption-text">
-      <strong>Figure 1:</strong>
+      <strong>Figure 5:</strong>
+      Our results in both measurement and reconstruction domains with zoom-in details compared with linear interpolation.
     </span>
   </figcaption>
 </figure>
@@ -207,7 +214,10 @@ For more details and to access the code, see [the paper](https://arxiv.org/pdf/2
   <img src="results_big.png" alt="my alt text" style="width:100%"/>
   <figcaption>
     <span class="caption-text">
-      <strong>Figure 1:</strong>
+      <strong>Figure 6:</strong>
+      <em>Baseline results with zoom-in details. From top to bottom row: </em> <strong>Chest:</strong> In our SIN-4c-PRN result, both soft tissues in the black region of the body and sharp edges of bones are maximally recovered compared to other methods. <strong>Abdomen:</strong>: Soft tissue with low contrast, such as in the green box are hard to recover from sinograms and pose a significant challenge for our networks.
+    % 
+    <strong>Head:</strong> The high-frequency details in the nose and bone regions are reconstructed while others either fail or over-smooth them.
     </span>
   </figcaption>
 </figure>

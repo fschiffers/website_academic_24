@@ -96,7 +96,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: florianschiffers+fromwebsite@gmail.com
       # phone: +1 872 235 6608
-      appointment_url: 'https://florianschiffers.youcanbook.me'
+      appointment_url: 'https://florianschiffers.youcanbook.me/'
       # address:
       #   street: 450 Serra Mall
       #   city: Stanford

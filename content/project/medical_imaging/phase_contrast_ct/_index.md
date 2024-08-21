@@ -23,6 +23,106 @@ image:
 ---
 
 
+<figure>
+<img src="example_phase_contrast.png" />
+<figcaption>
+<p align=”justify”>
+<strong>Figure 1</strong>: Example images to demonstrate Grating Based X-Ray interferometry and the different information it provides. The specimen is made of 4 gummy bears. The first (red) was imaged without any preparation. The second (yellow) has a splinter of wood inserted on its top. The third (red) one contains pin made of metal and a plastic head. The last (white) is filled with small PMMA-beads on its top with a diameter of 6µm.
+</p>
+</figcaption>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paper Display</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .paper-container table {
+            width: 100%;
+            border-spacing: 20px;
+        }
+        .paper-image img {
+            width: 250px;
+            height: auto;
+        }
+        .paper-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .paper-authors {
+            font-size: 16px;
+            margin-bottom: 10px;
+            color: #555;
+        }
+        .paper-conference {
+            font-size: 16px;
+            margin-bottom: 20px;
+        }
+        .paper-links {
+            display: flex;
+            gap: 10px;
+        }
+        .paper-links a {
+            display: inline-block;
+            padding: 5px 15px;
+            text-decoration: none;
+            color: #555;
+            background-color: #f7f7f7;
+            border: 1px solid #ddd;
+            font-size: 14px;
+            border-radius: 2px;
+        }
+        .paper-links a:hover {
+            background-color: #eaeaea;
+        }
+        .text {
+            vertical-align: top;
+        }
+    </style>
+</head>
+<body>
+
+<div class="paper-container">
+    <table>
+        <tr>
+            <td class="paper-image">
+              <a href="paper.pdf">
+                <img src="paper_thumbnail.png" alt="Paper Thumbnail" width="200px">
+            </td>
+            <td class="text">
+                <div class="paper-title">
+Polychromatic Maximum Likelihood Reconstruction for Talbot-Lau X-ray Tomography</div>
+                <div class="paper-authors">
+                     Schiffers, Florian, Sebastian Kaeppler, Georg Pelzer, Andreas Wolf, Andreas Maier, Gisela Anton, and Christian Riess
+                </div>
+                <div class="paper-conference">
+                    Fully3D 2017
+                </div>
+                <div class="paper-links">
+                    <a href="FlorianSchiffers_Fully3D2017.pdf">Paper</a>
+                    <a href="FlorianSchiffers_Masterthesis_2017.pdf">Master Thesis</a>
+                    <a href="Project_Report_Tensor_Tomography.pdf">Keystone Project</a>
+                    <a href="FlorianSchiffers_fully3d_presentation.pdf">Fully3D Slides</a>
+                    <a href="master_thesis_presentation.pdf">Thesis Presentation Slides</a>
+                    <!-- <a href="#">Bibtex</a>
+                    <a href="#">Code (soon)</a> -->
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+</body>
+</html>
+<br>
+
+
 Talbot-Lau X-ray grating interferometry applied within a polychromatic setup suffers from additional artifacts compared to conventional attenuation imaging. Among those are beam hardening and dispersion effects due to the complex coupling of different physical effects involved in the image formation process. In computed tomography these effects lead to image degradation, such as cupping and streak artifacts, hampering diagnostic use. 
 
 This thesis seeks to reduce these artifacts in an iterative reconstruction framework. To this purpose, we define a model of the polychromatic forward projection that includes prior knowledge about the physical setup. Using this model we derive a maximum likelihood algorithm for simultaneous reconstruction of the attenuation, phase and scatter images. 
@@ -31,13 +131,7 @@ In our experiments on a synthetic ground-truth phantom, we compare filtered back
 
 Furthermore, an optimized iterative reconstruction algorithm for grating based tomography is proposed. Last, an in-depth analysis of an iterative reconstruction framework for Talbot-Lau imaging data is provided.
 
-<figure>
-<img src="example_phase_contrast.png" />
-<figcaption>
-<p align=”justify”>
-Figure 2. Example images to demonstrate Grating Based X-Ray interferometry and the different information it provides. The specimen is made of 4 gummy bears. The first (red) was imaged without any preparation. The second (yellow) has a splinter of wood inserted on its top. The third (red) one contains pin made of metal and a plastic head. The last (white) is filled with small PMMA-beads on its top with a diameter of 6µm.
-</p>
-</figcaption>
+
 
 
 
@@ -46,7 +140,3 @@ Figure 2. Example images to demonstrate Grating Based X-Ray interferometry and t
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="IMXP_Poster.pdf">Download PDF</a>.</p>
     </embed>
 </object>
-
-[On Computed Tomography in Talbot-Lau X-Ray Interferometry, ECAP, 2017, Masterthesis](/FlorianSchiffers_Masterthesis_2017.pdf)
-
-[Schiffers, F., Kaeppler, S., Pelzer, G., Wolf, A., Maier, A., Anton, G., & Riess, C. Polychromatic Maximum Likelihood Reconstruction for Talbot-Lau X-ray Tomography.](/FlorianSchiffers_Fully3D2017.pdf)

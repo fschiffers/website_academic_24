@@ -132,6 +132,7 @@ header:
   <figcaption>
     <span class="caption-text">
       <strong>Figure 1:</strong>
+      Illustration of the gradient illumination procedure. Images are acquired under each gradient pattern in horizontal and vertical direction. From there the directional images are subtracted, forming x and y component of the normal map.
     </span>
   </figcaption>
 </figure>
@@ -142,6 +143,7 @@ header:
   <figcaption>
     <span class="caption-text">
       <strong>Figure 3:</strong>
+  (a) Skin section containing two small moles. b) Surface normal map of skin section. c) Banana peel with cuts and dents. d) Surface normal map the banana peel.  e) 3D reconstruction of the cuts in the banana peel. f) Silicone skin replicas and their 3D reconstruction of the number "16".
     </span>
   </figcaption>
 </figure>
