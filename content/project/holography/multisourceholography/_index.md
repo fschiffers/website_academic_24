@@ -151,7 +151,7 @@ weight: 1  # Lower numbers appear first; increase to order items as desired.
 </html>
 <br>
 
-In one my most favorite research projects that I have worked on, we propose a novel architecture for holographic displays called multisource holography, designed specifically to reduce speckle noise while maintaining high resolution and natural defocus cues. Traditional holographic displays rely on coherent illumination, which can create undesirable speckle patterns in the final image. Existing speckle reduction techniques often sacrifice resolution or require high-speed modulators and temporal multiplexing.
+In one my favorite research projects that I have worked on, we propose a novel architecture for holographic displays called multisource holography, designed specifically to reduce speckle noise while maintaining high resolution and natural defocus cues. Traditional holographic displays rely on coherent illumination, which can create undesirable speckle patterns in the final image. Existing speckle reduction techniques often sacrifice resolution or require high-speed modulators and temporal multiplexing.
 
 Multisource holography addresses these challenges by replacing the single coherent light source with a grid of multiple mutually incoherent sources. By using two spatial light modulators (SLMs) with a small air gap between them, the system breaks correlations between the sources, enabling each source to independently contribute to the final hologram. The intensities from the multiple sources sum incoherently at the image plane, effectively suppressing speckle through averaging.
 
