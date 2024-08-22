@@ -47,7 +47,7 @@ math: true
       </a>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>
       <a href="../project/otherprojects">
         <img src="other_projects.png" width="400">
@@ -60,7 +60,7 @@ math: true
       </a>
     </td>
   </tr>
-  <tr>
+  <tr> -->
     <td>
       <a href="../project/biology">
         <img src="biology.png" width="400">

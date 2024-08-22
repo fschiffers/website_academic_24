@@ -122,16 +122,13 @@ Nikolay Iakovlev, Florian A Schiffers, Santiago L Tapia, Daming Shen, KyungPyo H
 
 
 <figure>
-  <img src="fig_1.png" alt="my alt text" style="width:80%"/>
+  <img src="fig_1.png" style="width:80%"/>
   <figcaption>
     <span class="caption-text">
 <p><strong>Fig. 1.</strong> Schematic illustration of the unrolled structure interpreted as an implicit network: Zero-filled input x<sub>0</sub>, which was obtained by the inverse NUFFT operator, is refined by the update R<sub>&Theta;</sub> until convergence. R<sub>&Theta;</sub> consists of a data-consistency term and learned regularizer.</p>
     </span>
   </figcaption>
 </figure>
-
-
-
 
 
 <figure>

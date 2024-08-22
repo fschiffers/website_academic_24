@@ -23,59 +23,81 @@ sections:
         <table>
           <tr>
             <td>
-              <img src="images/thumbnails/multisource.png" alt="MultiSource Holography" width="400">
+              <a href="/project/holography/multisourceholography/">
+                <img src="images/thumbnails/multisource.png" alt="MultiSource Holography" width="400">
+              </a>
             </td>
             <td>
-              <span style="font-size:2em;">MultiSource Holography</span>
+              <a href="/project/holography/multisourceholography/" style="text-decoration:none; color:inherit;">
+                <span style="font-size:2em;">MultiSource Holography</span>
+              </a>
               <br>
-               Grace Kuo, <b>Florian Schiffers</b>, Douglas Lanman, Oliver Cossairt and Nathan Matsuda
-              <i>Interstellar Journal of Advanced Research 2024</i>
+              Grace Kuo, <b>Florian Schiffers</b>, Douglas Lanman, Oliver Cossairt, and Nathan Matsuda
+              <i>SIGGRAPH ASIA 2023</i>
               <br>
-              <a href="https://arxiv.org/abs/2309.10816">arXiv</a> | <a href="https://grace-kuo.com/resources/multisource_supplement.pdf">Supplement</a>
+              <a href="https://arxiv.org/abs/2309.10816">arXiv</a> | 
+              <a href="https://grace-kuo.com/resources/multisource_supplement.pdf">Supplement</a>
               <br>
               We propose an architecture for speckle reduction in holographic displays that uses an array of mutually incoherent sources and two sequential spatial light modulators. Multisource holography can suppress speckle in a single frame without sacrificing resolution.
             </td>
           </tr>
           <tr>
             <td>
-              <img src="images/thumbnails/stochastic_light_field_holography.png" alt="Quantum Flux Capacitors" width="400">
+              <a href="/project/holography/stochastic/">
+                <img src="images/thumbnails/stochastic_light_field_holography.png" alt="Stochastic Lightfield Holography" width="400">
+              </a>
             </td>
             <td>
-              <span style="font-size:2em;">Stochastic Lightfield Holography</span>
+              <a href="/project/holography/stochastic/" style="text-decoration:none; color:inherit;">
+                <span style="font-size:2em;">Stochastic Lightfield Holography</span>
+              </a>
               <br>
-               <b>Florian Schiffers</b>, Praneeth Chakravarthula, N. Matsuda, G. Kuo, E. Tseng, D. Lanman, F. Heide, Oliver Cossairt
+              <b>Florian Schiffers</b>, Praneeth Chakravarthula, N. Matsuda, G. Kuo, E. Tseng, D. Lanman, F. Heide, Oliver Cossairt
               <i>ICCP 2023</i>
               <br>
-              <a href="https://light.princeton.edu/wp-content/uploads/2023/08/stochastic_light_field_holography_supp.pdf">arXiv</a> | <a href="https://website-name.com">Supplement</a>
+              <a href="https://light.princeton.edu/wp-content/uploads/2023/08/stochastic_light_field_holography_supp.pdf">arXiv</a> | 
+              <a href="https://website-name.com">Supplement</a>
               <br>
               Our novel hologram generation algorithm enhances the realism of near-eye displays by matching the projection operators of incoherent (Light Field) and coherent (Wigner Function) light transport. By supervising hologram computation with on-the-fly synthesized photographs using Light Field refocusing, our method significantly improves image quality and viewing experience across diverse pupil states.
             </td>
           </tr>
+
           <tr>
             <td>
-              <img src="images/thumbnails/ct.png" alt="Neutrino Particle Simulation" width="400">
+              <a href="/project/medical_imaging/sinogram_inpainting/">
+                <img src="images/thumbnails/ct.png" alt="2-Step Sparse-View CT Reconstruction with a Domain-Specific Perceptual Network" width="400">
+              </a>
             </td>
             <td>
-              <span style="font-size:1.5em;">2-Step Sparse-View CT Reconstruction with a Domain-Specific Perceptual Network</span>
+              <a href="/project/medical_imaging/sinogram_inpainting/" style="text-decoration:none; color:inherit;">
+                <span style="font-size:1.5em;">2-Step Sparse-View CT Reconstruction with a Domain-Specific Perceptual Network</span>
+              </a>
               <br>
               <b>Florian Schiffers*</b>, Haoyu Wei*, Tobias Wuerfl, Daming Shen, Daniel Kim, Aggelos Katsaggelos, Oliver Cossairt
               <br>
-              <a href="https://arxiv.org/abs/2309.10816">arXiv</a> | <a href="https://website-name.com">Supplement</a>
+              <a href="https://arxiv.org/abs/2309.10816">arXiv</a> | 
+              <a href="https://website-name.com">Supplement</a>
               <br>
               Our novel framework for sparse-view computed tomography overcomes the challenges of angular undersampling by using a super-resolution network and a refinement network, resulting in high-quality reconstructions with significantly reduced streak artifacts. Our method enhances domain-specific information and demonstrates a 4 dB improvement over current solutions.
             </td>
           </tr>
+
           <tr>
             <td>
-              <img src="images/thumbnails/selvie.png" alt="Selfvi Self-supervised light-field video reconstruction from stereo video" width="400">
+              <a href="https://asprasan.github.io/pages/webpage-ICCV/index.html">
+                <img src="images/thumbnails/selvie.png" alt="Selfvi Self-Supervised Light-Field Video Reconstruction from Stereo Video" width="400">
+              </a>
             </td>
             <td>
-              <span style="font-size:1.5em;">Selfvi Self-supervised light-field video reconstruction from stereo video</span>
+              <a href="https://asprasan.github.io/pages/webpage-ICCV/index.html" style="text-decoration:none; color:inherit;">
+                <span style="font-size:1.5em;">Selfvi Self-Supervised Light-Field Video Reconstruction from Stereo Video</span>
+              </a>
               <br>
               Prasan Shedligeri, <b>Florian Schiffers</b>, Sushobhan Ghosh, Oliver Cossairt, Kaushik Mitra
               <i>ICCV 2021</i>
               <br>
-              <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Shedligeri_SeLFVi_Self-Supervised_Light-Field_Video_Reconstruction_From_Stereo_Video_ICCV_2021_paper.pdf">paper</a> | <a href="https://openaccess.thecvf.com/content/ICCV2021/supplemental/Shedligeri_SeLFVi_Self-Supervised_Light-Field_ICCV_2021_supplemental.zip">Supplement</a>
+              <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Shedligeri_SeLFVi_Self-Supervised_Light-Field_Video_Reconstruction_From_Stereo_Video_ICCV_2021_paper.pdf">paper</a> | 
+              <a href="https://openaccess.thecvf.com/content/ICCV2021/supplemental/Shedligeri_SeLFVi_Self-Supervised_Light-Field_ICCV_2021_supplemental.zip">Supplement</a>
               <br>
               Light-field imaging is attractive for mobile devices due to its intuitive post-capture processing, though acquiring high-quality LF data is challenging with space constraints. We propose a self-supervised algorithm for reconstructing high-fidelity LF videos from stereo videos, leveraging geometric and temporal information and enables applications like post-capture focus control.
             </td>

@@ -1,5 +1,5 @@
 ---
-title: Usformer - A small network for left atrium segmentation
+title: TODO - MRI with PCNN
 cms_exclude: true
 
 # View.

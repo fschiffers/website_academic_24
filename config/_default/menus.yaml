@@ -42,10 +42,14 @@ main:
     url: '/project/computervision'
     parent: 'Research'
     weight: 30
-  - name: Other Projects
-    url: '/project/'
+  - name: Biology (Antscan)
+    url: '/project/biology'
     parent: 'Research'
-    weight: 30
+    weight: 60
+  # - name: Other Projects
+  #   url: '/project/'
+  #   parent: 'Research'
+  #   weight: 70
 
   # - identifier: 'education'
   #   name: 'Education'
@@ -61,9 +65,9 @@ main:
   - name: Teaching
     url: '/teaching/'
     weight: 35
-  - name: Travel
-    url: '/travel'
-    weight: 50
+  # - name: Travel
+  #   url: '/travel'
+  #   weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
