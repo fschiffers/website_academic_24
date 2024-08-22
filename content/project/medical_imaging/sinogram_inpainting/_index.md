@@ -126,7 +126,7 @@ design:
                      Florian Schiffers*, Haoyu Wei*, Tobias Würfl, and D. Shen, D. Kim, AK Katsaggelos, Oliver Cossairt 
                 </div>
                 <div class="paper-conference">
-                    ICCP 2023
+                ArXiV
                 </div>
                 <div class="paper-links">
                     <a href="paper.pdf">Paper</a>
