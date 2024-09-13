@@ -56,7 +56,7 @@ sections:
               <i>ICCP 2023</i>
               <br>
               <a href="https://light.princeton.edu/wp-content/uploads/2023/08/stochastic_light_field_holography_supp.pdf">arXiv</a> | 
-              <a href="https://website-name.com">Supplement</a>
+              <a href="https://florianschiffers.com/project/holography/stochastic/stochastic_light_field_holography_supp.pdf">Supplement</a>
               <br>
               Our novel hologram generation algorithm enhances the realism of near-eye displays by matching the projection operators of incoherent (Light Field) and coherent (Wigner Function) light transport. By supervising hologram computation with on-the-fly synthesized photographs using Light Field refocusing, our method significantly improves image quality and viewing experience across diverse pupil states.
             </td>
@@ -76,7 +76,7 @@ sections:
               <b>Florian Schiffers*</b>, Haoyu Wei*, Tobias Wuerfl, Daming Shen, Daniel Kim, Aggelos Katsaggelos, Oliver Cossairt
               <br>
               <a href="https://arxiv.org/abs/2309.10816">arXiv</a> | 
-              <a href="https://website-name.com">Supplement</a>
+              <a href="https://florianschiffers.com/project/medical_imaging/sinogram_inpainting/supplement.pdf">Supplement</a>
               <br>
               Our novel framework for sparse-view computed tomography overcomes the challenges of angular undersampling by using a super-resolution network and a refinement network, resulting in high-quality reconstructions with significantly reduced streak artifacts. Our method enhances domain-specific information and demonstrates a 4 dB improvement over current solutions.
             </td>

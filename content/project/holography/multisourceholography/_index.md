@@ -135,7 +135,7 @@ weight: 1  # Lower numbers appear first; increase to order items as desired.
                     Grace Kuo, Florian Schiffers, Douglas Lanman, Oliver Cossairt, Nathan Matsuda
                 </div>
                 <div class="paper-conference">
-                    ICCP 2023
+                    SIGGRAPH ASIA 2023
                 </div>
                 <div class="paper-links">
                     <a href="paper.pdf">Paper</a>
