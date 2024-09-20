@@ -56,14 +56,14 @@ sections:
           date_start: '2022-09-01'
           date_end: '2023-03-01'
           description: '' # You can add a description here if needed
-        - title: Research Intern
-          company: Reality Labs; Meta
-          company_logo: meta
-          company_url: 'https://about.meta.com/realitylabs/'
-          location: Remote
-          date_start: '2021-09-01'
-          date_end: '2022-03-01'
-          description: '' # You can add a description here if needed
+        # - title: Research Intern
+        #   company: Reality Labs; Meta
+        #   company_logo: meta
+        #   company_url: 'https://about.meta.com/realitylabs/'
+        #   location: Remote
+        #   date_start: '2021-09-01'
+        #   date_end: '2022-03-01'
+        #   description: '' # You can add a description here if needed
         - title: Research Assistant
           company: Siemens Healthineers
           company_logo: siemens_small
